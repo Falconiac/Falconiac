@@ -1,13 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+and+welcome+to+my+profile;Take+a+look+around)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HELLO+&+WELCOME+to+my+Profile;Take+a+look+around)](https://git.io/typing-svg)
 
 <br>
 <br>
-<h1 style="color:#36BBF6; background-colo:darkslategray; display: inline; border: 2px solid #36bbf6; border-radius:5px;padding: 10px; ">My name is Falco Marecek and...</h1>
+
+# My name is Falco Marecek and...
 
 <br>
 
 
- <h3 style="color:#36BBF6">...I am a student at <strong style="color:#FE5A3F">neueFische GmbH</strong> since 25.04.2022 in the <strong style="color:#FE5A3F">coding bootcamp</strong> to become a <strong style="color:#FE5A3F">web developer</strong>.</h3> 
+ ### ...I am a student at neueFische GmbH since 25.04.2022 in the coding bootcamp
+ <br>
+
+ ### to become a web developer.
+
 <br>
 <br>
 <p style="color:#36BBF6">Among other things, we learn here:</p>
@@ -22,7 +27,7 @@
 <p style="color:#36BBF6">Since we are all not born perfect, <br>
 I ask you to take a close look at my projects and give me your suggestions for improvement. 
 <br>
-<strong style="color:#FE5A3F">This is the only way to learn !!!</strong>
+### This is the only way to learn !!!
 <br>
 <br>
 Have fun on my profile and I hope to read from you soon !!!!
@@ -36,7 +41,7 @@ Have fun on my profile and I hope to read from you soon !!!!
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 </div>
 
-The counter sucks...
+The counter sucks... XD
 
 
 
