@@ -27,7 +27,9 @@
 <p style="color:#36BBF6">Since we are all not born perfect, <br>
 I ask you to take a close look at my projects and give me your suggestions for improvement. 
 <br>
-### This is the only way to learn !!!
+
+## This is the only way to learn !!!
+
 <br>
 <br>
 Have fun on my profile and I hope to read from you soon !!!!
@@ -41,7 +43,7 @@ Have fun on my profile and I hope to read from you soon !!!!
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 </div>
 
-The counter sucks... XD
+#### I know, the counter sucks... XD
 
 
 
