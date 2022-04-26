@@ -28,6 +28,10 @@ I ask you to take a close look at my projects and give me your suggestions for i
 Have fun on my profile and I hope to read from you soon !!!!
 </p>
 
+![Picture of SEO & UX Love](pic/freepic.jpg)
+
+
+
 
 
 
