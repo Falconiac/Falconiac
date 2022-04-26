@@ -36,6 +36,8 @@ Have fun on my profile and I hope to read from you soon !!!!
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 </div>
 
+The counter sucks...
+
 
 
 
