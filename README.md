@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HELLO+&+WELCOME+to+my+Profile;Take+a+look+around)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HELLO+and+WELCOME+to+my+Profile;Take+a+look+around)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -7,11 +7,11 @@
 
 <br>
 
+### ...I am a student at neueFische GmbH since 25.04.2022 in the coding bootcamp
 
- ### ...I am a student at neueFische GmbH since 25.04.2022 in the coding bootcamp
  <br>
 
- ### to become a web developer.
+### to become a web developer.
 
 <br>
 <br>
@@ -39,15 +39,12 @@ Have fun on my profile and I hope to read from you soon !!!!
 <br>
 <br>
 <br>
+
 <div align="center">
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 </div>
 
 #### I know, the counter sucks... XD
-
-
-
-
 
 <!--
 **Falconiac/Falconiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
